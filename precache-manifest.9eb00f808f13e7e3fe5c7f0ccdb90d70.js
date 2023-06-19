@@ -1,35 +1,35 @@
 self.__precacheManifest = [
   {
-    "revision": "b6513871bb1314e09aeb",
+    "revision": "88d517194b46df3ec44f",
     "url": "/social-networ-it-kamasutra/static/css/main.e5922c05.chunk.css"
   },
   {
-    "revision": "b6513871bb1314e09aeb",
-    "url": "/social-networ-it-kamasutra/static/js/main.b3578d64.chunk.js"
+    "revision": "88d517194b46df3ec44f",
+    "url": "/social-networ-it-kamasutra/static/js/main.48616660.chunk.js"
   },
   {
-    "revision": "d597a9c89560fb008218",
-    "url": "/social-networ-it-kamasutra/static/js/runtime~main.ba1fa761.js"
+    "revision": "2c1c3156ff50f0a18a0b",
+    "url": "/social-networ-it-kamasutra/static/js/runtime~main.e7a3c43c.js"
   },
   {
-    "revision": "eea7add4af7ab53e51a6",
-    "url": "/social-networ-it-kamasutra/static/js/2.af639c15.chunk.js"
+    "revision": "4ee6cb13e078462c5e4c",
+    "url": "/social-networ-it-kamasutra/static/js/2.b610d32f.chunk.js"
   },
   {
-    "revision": "bfa842e7531799e46a31",
+    "revision": "ff991c00465c972ed738",
     "url": "/social-networ-it-kamasutra/static/css/3.2eb5d2a0.chunk.css"
   },
   {
-    "revision": "bfa842e7531799e46a31",
-    "url": "/social-networ-it-kamasutra/static/js/3.bf98ee15.chunk.js"
+    "revision": "ff991c00465c972ed738",
+    "url": "/social-networ-it-kamasutra/static/js/3.dbc13de8.chunk.js"
   },
   {
-    "revision": "6843761389d465ab9a77",
+    "revision": "0920cf71258980264d89",
     "url": "/social-networ-it-kamasutra/static/css/4.1f6d11d6.chunk.css"
   },
   {
-    "revision": "6843761389d465ab9a77",
-    "url": "/social-networ-it-kamasutra/static/js/4.7a462098.chunk.js"
+    "revision": "0920cf71258980264d89",
+    "url": "/social-networ-it-kamasutra/static/js/4.7c9f2218.chunk.js"
   },
   {
     "revision": "62dd1e9f31093b7cd380",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/social-networ-it-kamasutra/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "c9108a7e8594bc89abfc0cf774d43078",
+    "revision": "4b675fd6b37754077c9eda218ccd48fa",
     "url": "/social-networ-it-kamasutra/index.html"
   }
 ];
