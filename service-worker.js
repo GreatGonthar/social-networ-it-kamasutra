@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/social-networ-it-kamasutra/precache-manifest.37c4c0d07a2655cc8cb794bb0e174642.js"
+  "/social-networ-it-kamasutra/precache-manifest.3764656744ad8876fa41979b71179f89.js"
 );
 
 workbox.clientsClaim();

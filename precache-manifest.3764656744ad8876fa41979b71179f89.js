@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "88d517194b46df3ec44f",
+    "revision": "275578de57b8ddff532b",
     "url": "/social-networ-it-kamasutra/static/css/main.e5922c05.chunk.css"
   },
   {
-    "revision": "88d517194b46df3ec44f",
-    "url": "/social-networ-it-kamasutra/static/js/main.48616660.chunk.js"
+    "revision": "275578de57b8ddff532b",
+    "url": "/social-networ-it-kamasutra/static/js/main.6efa8572.chunk.js"
   },
   {
     "revision": "2c1c3156ff50f0a18a0b",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/social-networ-it-kamasutra/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "d93b3210f00cdf246ee3000c94c07166",
+    "revision": "c52ea214ebc724382917f2e41a933bb0",
     "url": "/social-networ-it-kamasutra/index.html"
   }
 ];
