@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "f2bec3830b001dca7304",
+    "revision": "88d517194b46df3ec44f",
     "url": "/social-networ-it-kamasutra/static/css/main.e5922c05.chunk.css"
   },
   {
-    "revision": "f2bec3830b001dca7304",
-    "url": "/social-networ-it-kamasutra/static/js/main.5e1c737b.chunk.js"
+    "revision": "88d517194b46df3ec44f",
+    "url": "/social-networ-it-kamasutra/static/js/main.48616660.chunk.js"
   },
   {
-    "revision": "62807992fdd76c4e2948",
-    "url": "/social-networ-it-kamasutra/static/js/runtime~main.ab08ab3b.js"
+    "revision": "2c1c3156ff50f0a18a0b",
+    "url": "/social-networ-it-kamasutra/static/js/runtime~main.e7a3c43c.js"
   },
   {
-    "revision": "daa9181400658acbf671",
-    "url": "/social-networ-it-kamasutra/static/js/2.7997225a.chunk.js"
+    "revision": "4ee6cb13e078462c5e4c",
+    "url": "/social-networ-it-kamasutra/static/js/2.b610d32f.chunk.js"
   },
   {
     "revision": "ff991c00465c972ed738",
@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/social-networ-it-kamasutra/static/js/3.dbc13de8.chunk.js"
   },
   {
-    "revision": "6aeab00842efaf44a32a",
+    "revision": "0920cf71258980264d89",
     "url": "/social-networ-it-kamasutra/static/css/4.1f6d11d6.chunk.css"
   },
   {
-    "revision": "6aeab00842efaf44a32a",
-    "url": "/social-networ-it-kamasutra/static/js/4.7ea7d7d2.chunk.js"
+    "revision": "0920cf71258980264d89",
+    "url": "/social-networ-it-kamasutra/static/js/4.7c9f2218.chunk.js"
   },
   {
     "revision": "62dd1e9f31093b7cd380",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/social-networ-it-kamasutra/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "7076cdbbb639b55163a37e70c218743f",
+    "revision": "d93b3210f00cdf246ee3000c94c07166",
     "url": "/social-networ-it-kamasutra/index.html"
   }
 ];
