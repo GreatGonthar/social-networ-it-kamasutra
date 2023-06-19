@@ -1,0 +1,12 @@
+.textPost {
+    display: inline-block;
+    color:cornflowerblue;
+    margin: 15px 0px;
+    background: #eff;
+    width: 70%;
+    word-break: break-all;
+}
+.textPost:nth-child(odd) {   
+    background: #eee;
+    margin-left: 200px;      
+   } 

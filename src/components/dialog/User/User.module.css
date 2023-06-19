@@ -1,0 +1,16 @@
+.user {
+    color:rgb(8, 29, 29);
+    margin: 20px 0px;
+    text-decoration: none;
+}
+
+.user img {
+    margin: 0px 10px;
+    width: 60px;
+    border-radius: 10%;
+}
+
+.user:hover {
+    text-decoration: underline;
+    font-size: large;
+}

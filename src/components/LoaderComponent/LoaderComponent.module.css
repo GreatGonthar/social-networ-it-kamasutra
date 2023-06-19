@@ -1,0 +1,14 @@
+.obraz {
+    position: absolute;
+    
+    height: 100%;
+    width: 1000px;
+    background: rgba(1, 1, 1, .5);
+}
+
+.obraz img {
+    margin-left: 400px;
+    margin-top: 10%;
+    height: 200px;
+    width: 200px;
+}

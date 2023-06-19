@@ -1,0 +1,19 @@
+.container {
+    display: grid;
+    grid-template-columns: 3fr 9fr;
+    }
+
+.users {
+    /* grid-area: u; */
+    border: 1px solid red;   
+}
+
+.dialogs {
+    /* grid-area: d; */
+    border: 1px solid blue;
+    padding: 10px 10px;
+} 
+.textPost {
+    padding: 20px;
+    border: 1px solid red;   
+}

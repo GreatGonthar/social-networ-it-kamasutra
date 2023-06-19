@@ -1,0 +1,37 @@
+.main-color {
+    color: black;
+}
+.ava_picture {
+    width: 100px;
+    height: 100px;
+}
+.pageSelected {
+    font-weight: bold;
+    color: orangered;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.pointer {
+    color: blue;
+    cursor: pointer;
+    white-space: pre;
+}
+
+.ava_picture:hover {
+    box-shadow: 0 0 5px black;
+    border-radius: 15px;
+}
+.users_info {
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+.users_info_text {
+    margin: auto 10px;
+}
+
+.button_follow {
+    background-color: salmon;
+}

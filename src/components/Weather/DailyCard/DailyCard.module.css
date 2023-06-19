@@ -1,0 +1,61 @@
+a {
+    text-decoration: none;
+}
+.card{
+    width: 200px;
+    height: fit-content;
+    padding: 12px;
+    border-radius: 12px;
+    background-color: #3a8ac0;
+    font-size: 14px;
+    color: aliceblue;
+    margin-left: 24px;
+    box-shadow: 3px 3px 12px 1px black;
+}
+.card:first-child {
+    margin-left: 0px;
+}
+.mainInfo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 12px;
+    background-color: #3a8ac0;
+    margin-right: 5px;
+    box-shadow: 3px 3px 12px 1px black;
+}
+.icon{
+
+}
+.date{
+   text-align: center;
+    color: aliceblue;
+    font-size: 14px;
+    font-weight: bold;
+}
+.weatherMain{
+    text-align: center;
+     color: aliceblue;
+     font-size: 12px;     
+ }
+.description{
+    margin-top: 4px;
+    font-size: 16px;
+}
+.temperature{
+    margin-top: 12px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.temperature::after {
+    content: "\2103"
+}
+.information > div {
+    margin-top: 4px;
+}
+.closeBtn {
+    display: flex;
+    /* border: solid black 1px; */
+    border-radius: 5px;
+    justify-content: flex-end;
+}

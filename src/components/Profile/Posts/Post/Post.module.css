@@ -1,0 +1,14 @@
+.Pcolor {
+    color:rgb(8, 29, 29);
+    margin: 20px auto;
+}
+
+.miniAva {
+    width: 50px;
+    border-radius: 10%;
+    margin: 0px 10px;
+}
+
+.like {
+    color: orangered;
+}
