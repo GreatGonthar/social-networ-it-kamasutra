@@ -2,7 +2,7 @@ import logo from "./logo.svg";
 import React, { Component } from "react";
 
 import "./App.css";
-import { BrowserRouter, Route } from "react-router-dom";
+import {HashRouter, BrowserRouter, Route } from "react-router-dom";
 import Zpp from "./Zpp.js";
 import HeaderContainer from "./components/header/HeaderContainer.jsx";
 import Nav from "./components/nav/Nav.jsx";
@@ -35,7 +35,7 @@ class App extends Component {
 		// 	}
 		// else return (
 		return (
-			<BrowserRouter>
+			<HashRouter>
 				<div className="App">
 					<HeaderContainer {...this.props} />
 					<Nav />
@@ -81,7 +81,7 @@ class App extends Component {
 						<Route path="/Login" component={Login} />
 					</div>
 				</div>
-			</BrowserRouter>
+			</HashRouter>
 		);
 	}
 }

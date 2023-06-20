@@ -16,11 +16,12 @@ const initialState = {
 }
 
 const Weather = (props) => {
-	const [state, dispatch] = useCitiesList(JSON.parse(localStorage.getItem("citiesList")))	
+	const [state, dispatch] = useCitiesList(JSON.parse(localStorage.getItem("citiesList")) || [])	
     return (
 		<GlobalContext.Provider value={{state, dispatch}}>
 			<Route exact path="/weather">
 			<div>
+				
 				<Input/>
 				<WithErrorBoundary>
 					<CardList className={classes.cardList}/>
